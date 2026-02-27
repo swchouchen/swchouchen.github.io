@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Shu Wei Chou Chen</title>
+    <link>https://swchouchen.github.io/tags/</link>
+      <atom:link href="https://swchouchen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://swchouchen.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://swchouchen.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>
