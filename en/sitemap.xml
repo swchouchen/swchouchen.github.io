@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://swchouchen.github.io/publication-type/2/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://swchouchen.github.io/publication_types/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -59,7 +59,7 @@
                 />
   </url><url>
     <loc>https://swchouchen.github.io/publication/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -73,7 +73,7 @@
                 />
   </url><url>
     <loc>https://swchouchen.github.io/tag/source-themes/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -84,6 +84,34 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://swchouchen.github.io/tag/source-themes/"
+                />
+  </url><url>
+    <loc>https://swchouchen.github.io/tags/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://swchouchen.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swchouchen.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://swchouchen.github.io/publication/2026chouchen_hosp_dlnm/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://swchouchen.github.io/es/publication/2026chouchen_hosp_dlnm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swchouchen.github.io/publication/2026chouchen_hosp_dlnm/"
                 />
   </url><url>
     <loc>https://swchouchen.github.io/publication/2026chen_dengue_ingarch/</loc>
@@ -98,20 +126,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://swchouchen.github.io/publication/2026chen_dengue_ingarch/"
-                />
-  </url><url>
-    <loc>https://swchouchen.github.io/tags/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://swchouchen.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://swchouchen.github.io/tags/"
                 />
   </url><url>
     <loc>https://swchouchen.github.io/publication/2026chouchen_wildfire/</loc>
