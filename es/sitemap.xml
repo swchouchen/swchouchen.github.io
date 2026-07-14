@@ -588,6 +588,19 @@
                 href="https://swchouchen.github.io/es/categories/"
                 />
   </url><url>
+    <loc>https://swchouchen.github.io/es/teaching/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://swchouchen.github.io/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://swchouchen.github.io/es/teaching/"
+                />
+  </url><url>
     <loc>https://swchouchen.github.io/es/misc2/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -612,19 +625,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://swchouchen.github.io/es/research/"
-                />
-  </url><url>
-    <loc>https://swchouchen.github.io/es/teaching/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://swchouchen.github.io/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://swchouchen.github.io/es/teaching/"
                 />
   </url>
 </urlset>
