@@ -5,12 +5,20 @@
     <link>https://swchouchen.github.io/tag/source-themes/</link>
       <atom:link href="https://swchouchen.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://swchouchen.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
       <link>https://swchouchen.github.io/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Forecasting methods for additive linear models with autoregressive symmetric errors</title>
+      <link>https://swchouchen.github.io/publication/2026chou-chen_forecast/</link>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://swchouchen.github.io/publication/2026chou-chen_forecast/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zero-inflated and distributed lag nonlinear models with random effects for assessing environmental impacts on respiratory health in peripheral regions of Costa Rica</title>
