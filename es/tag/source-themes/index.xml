@@ -5,12 +5,20 @@
     <link>https://swchouchen.github.io/es/tag/source-themes/</link>
       <atom:link href="https://swchouchen.github.io/es/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language><lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-CR</language><lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://swchouchen.github.io/media/icon_hu42dad7eb8ac65d4c058f51394aef2b42_206755_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
       <link>https://swchouchen.github.io/es/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>La relación entre el desarrollo financiero y el crecimiento económico en Costa Rica: un análisis de cointegración y de series de tiempo</title>
+      <link>https://swchouchen.github.io/es/publication/2026brenes/</link>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://swchouchen.github.io/es/publication/2026brenes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forecasting methods for additive linear models with autoregressive symmetric errors</title>
